@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Hydro-Codes
+- 👋 Hi, I’m @Adalumo-Festus
 - 👀 I’m interested in Full-Stack engineering
 - 🌱 I’m currently learning HTML, CSS and JS
 - 💞️ I’m looking to collaborate on any project.
